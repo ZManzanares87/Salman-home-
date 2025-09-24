@@ -485,7 +485,7 @@ body {
 }
 
 .challenge-header {
-    z-index: 10;
+    z-index: 10;  
     display: flex;
     margin-right: -317px;
     width: 100%;
